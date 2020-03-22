@@ -6,7 +6,7 @@ Install **selenium webdriver** in your environent before running this script.
    pip install selenium
    <br>
    <br>
-Also install **ChromeDriver** in your system from the link below
+Also install **ChromeDriver** in your system from the link given below
    <br>
   
    https://chromedriver.storage.googleapis.com/index.html?path=81.0.4044.69
