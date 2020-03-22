@@ -9,4 +9,4 @@ Install **selenium webdriver** in your environment before running this script.
 Also install **ChromeDriver** in your system from the link given below
    <br>
   
-   https://chromedriver.storage.googleapis.com/index.html?path=81.0.4044.69
+   https://sites.google.com/a/chromium.org/chromedriver/downloads
