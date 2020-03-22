@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.action_chains import ActionChainsusers can be followed per day due to quora's policy..
 import time
 
 #upto 100 new users can be followed per day due to quora's policy.....
@@ -13,7 +13,8 @@ name_of_user = str(input("Enter name of user whose following you would like to d
 index_in_quora_search = int(input("Enter index of user in quora search\n"))
 
 #initializes driver for further interactions with web browser....
-driver = webdriver.Chrome('/home/gauhar/Desktop/Documents/selenium/chromedriver')
+#Enter the path of chromedriver in your system.....
+driver = webdriver.Chrome('')
 
 #opens quora.com in web browser with get request....
 driver.get('https://www.quora.com/')
